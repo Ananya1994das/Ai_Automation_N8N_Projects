@@ -78,6 +78,7 @@ To build an intelligent news-monitoring system that combines **AI-powered summar
 
 ⭐ *An automation project demonstrating how Generative AI can transform everyday information consumption into a streamlined, intelligent workflow.*
 
+<img width="1520" height="605" alt="Workflow" src="https://github.com/user-attachments/assets/f1ec8a7c-ae49-46ec-9486-554f805edb58" />
 
 
 
