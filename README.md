@@ -1,7 +1,7 @@
 # Ai_Automation_N8N_Projects
 A collection of real-world n8n workflow automation projects showcasing end-to-end process automation, API integrations, data processing, AI-powered workflows, and business process optimization. Includes workflow configurations, sample datasets, execution outputs, and project documentation.
 
-# 📰 Daily AI News Automation
+# 1. 📰 Daily AI News Automation
 ### *Your Daily Dose of AI News — Automated with n8n & AI*
 
 ![n8n](https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge&logo=n8n)
@@ -82,7 +82,7 @@ To build an intelligent news-monitoring system that combines **AI-powered summar
 
 
 
-# 💼 AI-Powered Job Search Automation
+# 2. 💼 AI-Powered Job Search Automation
 ### *Automating Job Discovery with n8n, Gemini AI & Google Sheets*
 
 ![n8n](https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge&logo=n8n)
